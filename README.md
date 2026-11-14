@@ -1,38 +1,24 @@
-<div align="center">
-
 <a href="https://github.com/O3O-2022?tab=repositories"><img src="img/header.svg" width="100%" alt="Yogurt-Kr 프로필"/></a>
 
-<img src="img/divider.svg" width="100%" alt=""/>
+<div>
+<img src="img/sidebar.svg" align="right" width="29.5%" alt="사이드바"/>
+<img src="img/skills.svg" width="66.8%" alt="스킬 쇼케이스"/><br/>
+<img src="img/info.svg" width="66.8%" alt="정보 상자"/><br/>
+<img src="img/activity-top.svg" width="66.8%" alt="최근 활동"/><br/>
+<a href="https://github.com/O3O-2022/MiSide-PeaceMode"><img src="img/repo-MiSide-PeaceMode.svg" width="66.8%" alt="MiSide-PeaceMode"/></a><br/>
+<a href="https://github.com/O3O-2022/PeoplePlayground-Korean"><img src="img/repo-PeoplePlayground-Korean.svg" width="66.8%" alt="PeoplePlayground-Korean"/></a><br/>
+<a href="https://github.com/O3O-2022/AnimeFlow"><img src="img/repo-AnimeFlow.svg" width="66.8%" alt="AnimeFlow"/></a><br/>
+<a href="https://github.com/O3O-2022/workspace-2"><img src="img/repo-workspace-2.svg" width="66.8%" alt="workspace-2"/></a><br/>
+<a href="https://github.com/O3O-2022?tab=repositories"><img src="img/activity-bottom.svg" width="66.8%" alt="모든 저장소 보기"/></a>
+</div>
 
-<img src="img/about.svg" width="100%" alt="소개"/>
-
-<img src="img/badges.svg" width="100%" alt="배지 쇼케이스"/>
-
-<img src="img/title-activity.svg" width="100%" alt="최근 활동"/>
-
-<a href="https://github.com/O3O-2022/MiSide-PeaceMode"><img src="img/repo-MiSide-PeaceMode.svg" width="49%" alt="MiSide-PeaceMode"/></a>
-<a href="https://github.com/O3O-2022/PeoplePlayground-Korean"><img src="img/repo-PeoplePlayground-Korean.svg" width="49%" alt="PeoplePlayground-Korean"/></a>
-<a href="https://github.com/O3O-2022/AnimeFlow"><img src="img/repo-AnimeFlow.svg" width="49%" alt="AnimeFlow"/></a>
-<a href="https://github.com/O3O-2022/workspace-2"><img src="img/repo-workspace-2.svg" width="49%" alt="workspace-2"/></a>
-
-<img src="img/title-stack.svg" width="100%" alt="사용 도구"/>
-
-<img src="https://img.shields.io/badge/Blender-1b2838?style=for-the-badge&logo=blender&logoColor=66c0f4" alt="Blender"/>
-<img src="https://img.shields.io/badge/Unity-1b2838?style=for-the-badge&logo=unity&logoColor=66c0f4" alt="Unity"/>
-<img src="https://img.shields.io/badge/Unreal_Engine-1b2838?style=for-the-badge&logo=unrealengine&logoColor=66c0f4" alt="Unreal Engine"/>
-<img src="https://img.shields.io/badge/C-1b2838?style=for-the-badge&logo=c&logoColor=66c0f4" alt="C"/>
-<img src="https://img.shields.io/badge/C%2B%2B-1b2838?style=for-the-badge&logo=cplusplus&logoColor=66c0f4" alt="C++"/>
-<img src="https://img.shields.io/badge/C%23-1b2838?style=for-the-badge&logo=dotnet&logoColor=66c0f4" alt="C#"/>
-<img src="https://img.shields.io/badge/Python-1b2838?style=for-the-badge&logo=python&logoColor=66c0f4" alt="Python"/>
-<img src="https://img.shields.io/badge/Git-1b2838?style=for-the-badge&logo=git&logoColor=66c0f4" alt="Git"/>
-
-<img src="img/divider.svg" width="100%" alt=""/>
+<br clear="all"/>
 
 <details>
-<summary><b>📊 활동 통계 펼치기</b></summary>
+<summary><b>활동 통계 펼치기</b></summary>
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=O3O-2022&background=16202D&border=2A3F55&ring=66C0F4&fire=90BA3C&currStreakNum=FFFFFF&sideNums=C7D5E0&currStreakLabel=66C0F4&sideLabels=8F98A0&dates=8F98A0&locale=ko" width="100%" alt="연속 기여"/>
+<img src="https://streak-stats.demolab.com/?user=O3O-2022&background=16171F&border=2B2D44&ring=57CBDE&fire=90BA3C&currStreakNum=FFFFFF&sideNums=EBEBEB&currStreakLabel=57CBDE&sideLabels=969696&dates=969696&locale=ko" width="100%" alt="연속 기여"/>
 
 <img src="https://raw.githubusercontent.com/O3O-2022/O3O-2022/main/profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D 기여 그래프"/>
 
@@ -47,5 +33,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/O3O-2022/O3O-2022/output/snake.svg"/>
   <img alt="기여 스네이크" src="https://raw.githubusercontent.com/O3O-2022/O3O-2022/output/snake.svg" width="100%"/>
 </picture>
-
-</div>
