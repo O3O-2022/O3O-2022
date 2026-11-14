@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="296" viewBox="0 0 900 296" role="img" aria-label="배지 쇼케이스" font-family="'Motiva Sans','Segoe UI','Malgun Gothic','Apple SD Gothic Neo','Noto Sans KR',Arial,sans-serif">
+
+  <defs>
+    <linearGradient id="bbg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1f2c3c"/>
+      <stop offset="1" stop-color="#16202d"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="296" rx="4" fill="url(#bbg)"/>
+  <rect x="0.5" y="0.5" width="899" height="295" rx="4" fill="none" stroke="#2a3f55"/>
+  <rect x="0" y="0" width="900" height="40" rx="4" fill="#000" opacity="0.25"/>
+  <text x="16" y="27" font-size="15" fill="#c7d5e0" letter-spacing="0.5">배지 쇼케이스</text>
+  <text x="884" y="27" text-anchor="end" font-size="13" fill="#8f98a0">8개</text>
+  <g transform="translate(16,52)">
+    <rect width="214" height="108" rx="3" fill="#000" opacity="0.22"/>
+    <g transform="translate(46,54)">
+      <circle r="31" fill="#e87d0d" opacity="0.10"/>
+      <circle r="31" fill="none" stroke="#e87d0d" stroke-opacity="0.55" stroke-width="1.5"/>
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" dur="3s" begin="0.00s" repeatCount="indefinite"/>
+        <path d="M0,-18 L16,-9 L16,9 L0,18 L-16,9 L-16,-9 Z" stroke="#e87d0d" stroke-width="2.4" fill="none" stroke-linejoin="round" stroke-linecap="round"/><path d="M-16,-9 L0,0 L16,-9 M0,0 L0,18" stroke="#e87d0d" stroke-width="2.4" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+      </g>
+    </g>
+    <text x="88" y="48" font-size="14" fill="#fff">블렌더 모델링</text>
+    <text x="88" y="70" font-size="12" fill="#8f98a0">Blender Modeling</text>
+  </g>
+  <g transform="translate(234,52)">
+    <rect width="214" height="108" rx="3" fill="#000" opacity="0.22"/>
+    <g transform="translate(46,54)">
+      <circle r="31" fill="#f5a742" opacity="0.10"/>
+      <circle r="31" fill="none" stroke="#f5a742" stroke-opacity="0.55" stroke-width="1.5"/>
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" dur="3s" begin="0.37s" repeatCount="indefinite"/>
+        <path d="M-18,10 C-8,10 -6,-12 4,-12 S14,4 18,4" stroke="#f5a742" stroke-width="2.4" fill="none" stroke-linejoin="round" stroke-linecap="round"/><rect x="-22" y="6" width="8" height="8" transform="rotate(45 -18 10)" fill="#f5a742"/><rect x="0" y="-16" width="8" height="8" transform="rotate(45 4 -12)" fill="#f5a742"/><rect x="14" y="0" width="8" height="8" transform="rotate(45 18 4)" fill="#f5a742"/>
+      </g>
+    </g>
+    <text x="88" y="48" font-size="14" fill="#fff">블렌더 애니메이팅</text>
+    <text x="88" y="70" font-size="12" fill="#8f98a0">Blender Animation</text>
+  </g>
+  <g transform="translate(452,52)">
+    <rect width="214" height="108" rx="3" fill="#000" opacity="0.22"/>
+    <g transform="translate(46,54)">
+      <circle r="31" fill="#90ba3c" opacity="0.10"/>
+      <circle r="31" fill="none" stroke="#90ba3c" stroke-opacity="0.55" stroke-width="1.5"/>
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" dur="3s" begin="0.74s" repeatCount="indefinite"/>
+        <rect x="-18" y="-18" width="12" height="12" stroke="#90ba3c" stroke-opacity="0.45" fill="none"/><rect x="-18" y="-6" width="12" height="12" stroke="#90ba3c" stroke-opacity="0.45" fill="none"/><rect x="-18" y="6" width="12" height="12" stroke="#90ba3c" stroke-opacity="0.45" fill="none"/><rect x="-6" y="-18" width="12" height="12" stroke="#90ba3c" stroke-opacity="0.45" fill="none"/><rect x="-6" y="-6" width="12" height="12" stroke="#90ba3c" stroke-opacity="0.45" fill="none"/><rect x="-6" y="6" width="12" height="12" stroke="#90ba3c" stroke-opacity="0.45" fill="none"/><rect x="6" y="-18" width="12" height="12" stroke="#90ba3c" stroke-opacity="0.45" fill="none"/><rect x="6" y="-6" width="12" height="12" stroke="#90ba3c" stroke-opacity="0.45" fill="none"/><rect x="6" y="6" width="12" height="12" stroke="#90ba3c" stroke-opacity="0.45" fill="none"/><path d="M-12,12 L-12,0 L0,0 L0,-12 L12,-12" stroke="#90ba3c" stroke-width="2.4" fill="none" stroke-linejoin="round" stroke-linecap="round"/><circle cx="12" cy="-12" r="3" fill="#90ba3c"/>
+      </g>
+    </g>
+    <text x="88" y="48" font-size="14" fill="#fff">레벨 디자인</text>
+    <text x="88" y="70" font-size="12" fill="#8f98a0">Level Design</text>
+  </g>
+  <g transform="translate(670,52)">
+    <rect width="214" height="108" rx="3" fill="#000" opacity="0.22"/>
+    <g transform="translate(46,54)">
+      <circle r="31" fill="#c7d5e0" opacity="0.10"/>
+      <circle r="31" fill="none" stroke="#c7d5e0" stroke-opacity="0.55" stroke-width="1.5"/>
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" dur="3s" begin="1.11s" repeatCount="indefinite"/>
+        <path d="M-13,-18 L7,-18 L14,-11 L14,18 L-13,18 Z" stroke="#c7d5e0" stroke-width="2.4" fill="none" stroke-linejoin="round" stroke-linecap="round"/><path d="M-7,-6 L8,-6 M-7,2 L8,2 M-7,10 L2,10" stroke="#c7d5e0" stroke-width="2.4" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+      </g>
+    </g>
+    <text x="88" y="48" font-size="14" fill="#fff">게임 기획</text>
+    <text x="88" y="70" font-size="12" fill="#8f98a0">Game Design</text>
+  </g>
+  <g transform="translate(16,168)">
+    <rect width="214" height="108" rx="3" fill="#000" opacity="0.22"/>
+    <g transform="translate(46,54)">
+      <circle r="31" fill="#d45bd0" opacity="0.10"/>
+      <circle r="31" fill="none" stroke="#d45bd0" stroke-opacity="0.55" stroke-width="1.5"/>
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" dur="3s" begin="1.48s" repeatCount="indefinite"/>
+        <rect x="-20" y="-17" width="40" height="34" rx="2" stroke="#d45bd0" stroke-width="2.4" fill="none" stroke-linejoin="round" stroke-linecap="round"/><rect x="-17" y="-14" width="4" height="3" fill="#d45bd0"/><rect x="-17" y="11" width="4" height="3" fill="#d45bd0"/><rect x="-8" y="-14" width="4" height="3" fill="#d45bd0"/><rect x="-8" y="11" width="4" height="3" fill="#d45bd0"/><rect x="1" y="-14" width="4" height="3" fill="#d45bd0"/><rect x="1" y="11" width="4" height="3" fill="#d45bd0"/><rect x="10" y="-14" width="4" height="3" fill="#d45bd0"/><rect x="10" y="11" width="4" height="3" fill="#d45bd0"/><path d="M-5,-7 L8,0 L-5,7 Z" fill="#d45bd0"/>
+      </g>
+    </g>
+    <text x="88" y="48" font-size="14" fill="#fff">영상 편집</text>
+    <text x="88" y="70" font-size="12" fill="#8f98a0">Video Editing</text>
+  </g>
+  <g transform="translate(234,168)">
+    <rect width="214" height="108" rx="3" fill="#000" opacity="0.22"/>
+    <g transform="translate(46,54)">
+      <circle r="31" fill="#c7d5e0" opacity="0.10"/>
+      <circle r="31" fill="none" stroke="#c7d5e0" stroke-opacity="0.55" stroke-width="1.5"/>
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" dur="3s" begin="1.85s" repeatCount="indefinite"/>
+        <path d="M-20,4 C-20,-10 -12,-10 -6,-8 L6,-8 C12,-10 20,-10 20,4 C20,14 14,16 10,10 L-10,10 C-14,16 -20,14 -20,4 Z" stroke="#c7d5e0" stroke-width="2.4" fill="none" stroke-linejoin="round" stroke-linecap="round"/><path d="M-12,-1 L-12,5 M-15,2 L-9,2" stroke="#c7d5e0" stroke-width="2.4" fill="none" stroke-linejoin="round" stroke-linecap="round"/><circle cx="9" cy="0" r="1.8" fill="#c7d5e0"/><circle cx="13" cy="4" r="1.8" fill="#c7d5e0"/>
+      </g>
+    </g>
+    <text x="88" y="48" font-size="14" fill="#fff">Unity</text>
+    <text x="88" y="70" font-size="12" fill="#8f98a0">Game Engine</text>
+  </g>
+  <g transform="translate(452,168)">
+    <rect width="214" height="108" rx="3" fill="#000" opacity="0.22"/>
+    <g transform="translate(46,54)">
+      <circle r="31" fill="#66c0f4" opacity="0.10"/>
+      <circle r="31" fill="none" stroke="#66c0f4" stroke-opacity="0.55" stroke-width="1.5"/>
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" dur="3s" begin="2.22s" repeatCount="indefinite"/>
+        <text y="7" text-anchor="middle" font-size="20" font-weight="bold" fill="#66c0f4">UE</text>
+      </g>
+    </g>
+    <text x="88" y="48" font-size="14" fill="#fff">Unreal Engine</text>
+    <text x="88" y="70" font-size="12" fill="#8f98a0">Game Engine</text>
+  </g>
+  <g transform="translate(670,168)">
+    <rect width="214" height="108" rx="3" fill="#000" opacity="0.22"/>
+    <g transform="translate(46,54)">
+      <circle r="31" fill="#5b8fd4" opacity="0.10"/>
+      <circle r="31" fill="none" stroke="#5b8fd4" stroke-opacity="0.55" stroke-width="1.5"/>
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" dur="3s" begin="2.59s" repeatCount="indefinite"/>
+        <text y="7" text-anchor="middle" font-size="20" font-weight="bold" fill="#5b8fd4">{ }</text>
+      </g>
+    </g>
+    <text x="88" y="48" font-size="14" fill="#fff">C / C++</text>
+    <text x="88" y="70" font-size="12" fill="#8f98a0">Programming</text>
+  </g>
+</svg>

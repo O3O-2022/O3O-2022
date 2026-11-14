@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="142" viewBox="0 0 900 142" role="img" aria-label="소개" font-family="'Motiva Sans','Segoe UI','Malgun Gothic','Apple SD Gothic Neo','Noto Sans KR',Arial,sans-serif">
+
+  <defs>
+    <linearGradient id="abg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1f2c3c"/>
+      <stop offset="1" stop-color="#16202d"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="142" rx="4" fill="url(#abg)"/>
+  <rect x="0.5" y="0.5" width="899" height="141" rx="4" fill="none" stroke="#2a3f55"/>
+  <rect x="0" y="0" width="900" height="40" rx="4" fill="#000" opacity="0.25"/>
+  <text x="16" y="27" font-size="15" fill="#c7d5e0" letter-spacing="0.5">소개</text>
+  <text x="20" y="70" font-size="15" fill="#c7d5e0">컴퓨터에 관심있음.</text><text x="20" y="96" font-size="15" fill="#c7d5e0">블렌더로 모델링하고 애니메이션을 만들고, 게임 엔진으로 옮겨서</text><text x="20" y="122" font-size="15" fill="#c7d5e0">레벨을 짜고 기획합니다. 만든 건 영상으로 편집해서 남겨요.</text>
+</svg>

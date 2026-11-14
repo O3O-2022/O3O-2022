@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="40" viewBox="0 0 900 40" role="img" aria-label="최근 활동" font-family="'Motiva Sans','Segoe UI','Malgun Gothic','Apple SD Gothic Neo','Noto Sans KR',Arial,sans-serif">
+
+  <rect x="0" y="0" width="900" height="40" rx="4" fill="#000" opacity="1" fill-opacity="0.35"/>
+  <text x="16" y="27" font-size="15" fill="#c7d5e0" letter-spacing="0.5">최근 활동</text>
+  <text x="884" y="27" text-anchor="end" font-size="13" fill="#8f98a0">공개 저장소 4개</text>
+</svg>
