@@ -1,15 +1,12 @@
-<a href="https://github.com/O3O-2022?tab=repositories"><img src="img/header.svg" width="100%" alt="Yogurt-Kr 프로필"/></a>
+<a href="https://github.com/O3O-2022"><img src="discord/server.svg" width="100%" alt="Yogurt-Kr의 작업실"/></a>
 
 <div>
-<img src="img/sidebar.svg" align="right" width="29.5%" alt="사이드바"/>
-<img src="img/skills.svg" width="66.8%" alt="스킬 쇼케이스"/><br/>
-<img src="img/info.svg" width="66.8%" alt="정보 상자"/><br/>
-<img src="img/activity-top.svg" width="66.8%" alt="최근 활동"/><br/>
-<a href="https://github.com/O3O-2022/MiSide-PeaceMode"><img src="img/repo-MiSide-PeaceMode.svg" width="66.8%" alt="MiSide-PeaceMode"/></a><br/>
-<a href="https://github.com/O3O-2022/PeoplePlayground-Korean"><img src="img/repo-PeoplePlayground-Korean.svg" width="66.8%" alt="PeoplePlayground-Korean"/></a><br/>
-<a href="https://github.com/O3O-2022/AnimeFlow"><img src="img/repo-AnimeFlow.svg" width="66.8%" alt="AnimeFlow"/></a><br/>
-<a href="https://github.com/O3O-2022/workspace-2"><img src="img/repo-workspace-2.svg" width="66.8%" alt="workspace-2"/></a><br/>
-<a href="https://github.com/O3O-2022?tab=repositories"><img src="img/activity-bottom.svg" width="66.8%" alt="모든 저장소 보기"/></a>
+<a href="https://github.com/O3O-2022"><img src="discord/profile.svg" align="right" width="30.7%" alt="프로필"/></a>
+<a href="https://github.com/O3O-2022?tab=repositories"><img src="discord/projects-top.svg" width="66.8%" alt="프로젝트"/></a><br/>
+<a href="https://github.com/O3O-2022/MiSide-PeaceMode"><img src="discord/repo-MiSide-PeaceMode.svg" width="66.8%" alt="MiSide-PeaceMode"/></a><br/>
+<a href="https://github.com/O3O-2022/PeoplePlayground-Korean"><img src="discord/repo-PeoplePlayground-Korean.svg" width="66.8%" alt="PeoplePlayground-Korean"/></a><br/>
+<a href="https://github.com/O3O-2022/AnimeFlow"><img src="discord/repo-AnimeFlow.svg" width="66.8%" alt="AnimeFlow"/></a><br/>
+<a href="https://github.com/O3O-2022/workspace-2"><img src="discord/repo-workspace-2.svg" width="66.8%" alt="workspace-2"/></a><br/>
 </div>
 
 <br clear="all"/>
@@ -18,7 +15,7 @@
 <summary><b>활동 통계 펼치기</b></summary>
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=O3O-2022&background=16171F&border=2B2D44&ring=57CBDE&fire=90BA3C&currStreakNum=FFFFFF&sideNums=EBEBEB&currStreakLabel=57CBDE&sideLabels=969696&dates=969696&locale=ko" width="100%" alt="연속 기여"/>
+<img src="https://streak-stats.demolab.com/?user=O3O-2022&background=2B2D31&border=1E1F22&ring=5865F2&fire=23A55A&currStreakNum=F2F3F5&sideNums=DBDEE1&currStreakLabel=5865F2&sideLabels=949BA4&dates=949BA4&locale=ko" width="100%" alt="연속 기여"/>
 
 <img src="https://raw.githubusercontent.com/O3O-2022/O3O-2022/main/profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D 기여 그래프"/>
 

@@ -1,0 +1,3 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="652" height="56" viewBox="0 0 652 56" role="img" aria-label="프로젝트 채널" font-family="'gg sans','Noto Sans KR','Malgun Gothic','Apple SD Gothic Neo','Segoe UI',Arial,sans-serif">
+<path d="M10,0 H642 A10,10 0 0 1 652,10 V56 H0 V10 A10,10 0 0 1 10,0 Z" fill="#313338"/><path d="M21,21 L19,35 M27,21 L25,35 M17,25.5 L30,25.5 M16,30.5 L29,30.5" stroke="#80848e" stroke-width="1.6" fill="none" stroke-linecap="round"/><text x="40" y="34" font-size="15" font-weight="700" fill="#f2f3f5">프로젝트</text><rect x="120" y="18" width="1" height="20" fill="#3f4147"/><text x="134" y="34" font-size="13" fill="#949ba4">최근에 작업한 저장소 · 눌러서 열기</text><rect y="55" width="652" height="1" fill="#26282c"/>
+</svg>
